@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcdeffffffff
+=======
+This is the first file 
+>>>>>>> 51c0d31b27d1c1fdda4299a496533e9d219f11e6
